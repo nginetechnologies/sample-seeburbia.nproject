@@ -1,8 +1,7 @@
 {
     "name": "Seeburbia",
-    "description": "",
     "guid": "d52ac778-61ac-4a73-ace6-8cde8d550122",
-	"database_guid": "7392a0eb-a1f2-8abe-4991-f06fa0a942ed",
+	"database_guid": "8d18c48b-b8b4-6eaf-6c26-c70ce078706a",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
